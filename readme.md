@@ -34,7 +34,7 @@ cd okta-go-api-sample
 Update your config file at `.okta.env` with the values from your application's configuration:
 
 ```text
-OKTA_OAUTH2_ISSUER="https://dev-133337.okta.com"
+OKTA_OAUTH2_ISSUER="https://dev-133337.okta.com/oauth2/default"
 OKTA_OAUTH2_CLIENT_ID="0oab8eb55Kb9jdMIr5d6"
 ```
 
